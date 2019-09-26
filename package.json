@@ -1,0 +1,14 @@
+{
+	"name": "my-cli",
+	"version": "1.0.1",
+	"author": "frontier",
+	"license": "MIT",
+	"bin": {
+		"my-cli": "bin.js"
+	},
+	"dependencies": {
+		"commander": "^3.0.1",
+		"cross-spawn": "^7.0.0",
+		"mkdirp": "^0.5.1"
+	}
+}
