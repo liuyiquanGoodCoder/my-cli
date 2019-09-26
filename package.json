@@ -10,5 +10,5 @@
 		"commander": "^3.0.1",
 		"cross-spawn": "^7.0.0",
 		"mkdirp": "^0.5.1"
-	}
+	},
 }
