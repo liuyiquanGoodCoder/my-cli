@@ -8,7 +8,7 @@
 	},
 	"dependencies": {
 		"commander": "^3.0.1",
-		"cross-spawn": "^7.0.0",
+		"cross-spawn": "^7.0.5",
 		"mkdirp": "^0.5.1"
 	}
 }
